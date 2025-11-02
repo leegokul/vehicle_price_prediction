@@ -99,7 +99,9 @@ To build a predictive model that estimates used vehicle prices accurately and pr
 
 ---
 ## Screenshot
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c13fcf99-bbc8-434d-b9cf-98acb2ec6e35" />
+<img width="615" height="283" alt="image" src="https://github.com/user-attachments/assets/71df79f0-0fea-4ab7-aefe-4ba81f7bd342" />
+<img width="602" height="269" alt="image" src="https://github.com/user-attachments/assets/07b6b691-0d43-4479-a8b2-e872ac214455" />
+
 
 ## 🏁 Conclusion
 
