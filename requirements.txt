@@ -1,0 +1,11 @@
+Collecting streamlit
+  Downloading streamlit-1.51.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting pandas
+  Using cached pandas-2.3.3-cp314-cp314-win_amd64.whl.metadata (19 kB)
+Collecting numpy
+  Using cached numpy-2.3.4-cp314-cp314-win_amd64.whl.metadata (60 kB)
+Collecting scikit-learn
+  Using cached scikit_learn-1.7.2-cp314-cp314-win_amd64.whl.metadata (11 kB)
+Collecting matplotlib
+  Using cached matplotlib-3.10.7-cp314-cp314-win_amd64.whl.metadata (11 kB)
+seaborn
