@@ -98,6 +98,8 @@ To build a predictive model that estimates used vehicle prices accurately and pr
 * Try other ML models & hyperparameter tuning
 
 ---
+## Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c13fcf99-bbc8-434d-b9cf-98acb2ec6e35" />
 
 ## 🏁 Conclusion
 
